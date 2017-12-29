@@ -1,0 +1,9 @@
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\bin\Debug\GetUnknowDevice_WMI.exe.config
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.csprojResolveAssemblyReference.cache
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.Form1.resources
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.Properties.Resources.resources
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.csproj.GenerateResource.Cache
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\bin\Debug\GetUnknowDevice_WMI.exe
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\bin\Debug\GetUnknowDevice_WMI.pdb
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.exe
+D:\C#DST專案開發\Practice\GetUnknowDevice_WMI\GetUnknowDevice_WMI\obj\Debug\GetUnknowDevice_WMI.pdb
