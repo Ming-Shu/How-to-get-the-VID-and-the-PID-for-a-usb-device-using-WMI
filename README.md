@@ -1,6 +1,6 @@
 # How-to-get-the-VID-and-the-PID-for-a-usb-device-using-WMI
 
-We are writing an application to identify VID and PID from usb devices .
+We are writing an application to identify VID and PID from usb devices.
  
 Requirements:
 
