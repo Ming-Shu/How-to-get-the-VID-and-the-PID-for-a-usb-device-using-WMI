@@ -1,2 +1,10 @@
 # How-to-get-the-VID-and-the-PID-for-a-usb-device-using-WMI
- I´m writing an application to identify VID and PID from usb devices .
+
+We are writing an application to identify VID and PID from usb devices .
+ 
+Requirements:
+
+This software was written using Visual Studio 2013 for Windows desktop building for the .NET Framework v4.5.
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+User Interface:
