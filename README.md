@@ -8,3 +8,4 @@ This software was written using Visual Studio 2013 for Windows desktop building 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 User Interface:
+![image](https://github.com/Ming-Shu/USB-communications-with-a-HID-class/blob/master/Interface_Picture.PNG)
